@@ -9,10 +9,14 @@
     "start": "NODE_ENV=production bun src/index.html"
   },
   "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
     "three": "^0.184.0"
   },
   "devDependencies": {
     "@types/bun": "latest",
+    "@types/react": "^19.2.2",
+    "@types/react-dom": "^19.2.2",
     "@types/three": "^0.184.0"
   }
 }
